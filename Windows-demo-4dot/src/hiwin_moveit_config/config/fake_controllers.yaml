@@ -1,0 +1,7 @@
+controller_list:
+  - name: fake_arm_controller
+    joints:
+      - j_0001
+      - j_0102
+      - j_0203
+      - j_03sq
